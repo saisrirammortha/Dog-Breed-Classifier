@@ -23,7 +23,7 @@ This would install all the requirements.
 * To identify whether an Image is a dog or not applied Transfer Learning using **VGG 16 Model** and changed the classifier for our needs.
 * To identify the breed of a dog
     * First defined a Convolution Neural Network. The accuracy was low.
-    * So again applied Transfer Learning using **VGG 16 Model** which is a Deep CNN ad updated the classifier of the model with 133 outputs each for a different dog breed.
+    * So again applied Transfer Learning using **VGG 16 Model** which is a Deep Convolutional Network and updated the classifier of the model with 133 outputs each for a different dog breed.
 * For Further Information see the [notebook](https://github.com/saisrirammortha/Dog-Breed-Classifier/blob/master/dog_app.ipynb).
 * The output of some instances of function are given below.
 ![Output Image](https://github.com/saisrirammortha/Dog-Breed-Classifier/blob/master/output.png)
