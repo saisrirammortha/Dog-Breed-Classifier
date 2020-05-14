@@ -12,3 +12,4 @@ seaborn
 h5py
 ipykernel
 pickleshare
+jupyter notebook
