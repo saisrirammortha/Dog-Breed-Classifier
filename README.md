@@ -15,6 +15,11 @@
 ```
 pip install -r requirements.txt
 ```
+* I suppose Anaconda is already installed in the machine. Then run the following command
+```
+conda install pytorch torchvision -c pytorch
+```
+
 This would install all the requirements.
 ## Output
 * The dataset contains images of dogs of 133 different Breeds
